@@ -36,7 +36,7 @@ export default function RotaInterna() {
                 
                 options={{
                     
-                    tabBarBadge:1,
+                    tabBarBadge:12,
                     tabBarShowLabel: false,
                     headerShown: false,
                     tabBarIcon: ({ focused }) => {
